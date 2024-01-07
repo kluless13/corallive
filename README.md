@@ -1,5 +1,10 @@
-# corallive
-live coral % tracker
+# corallive - CoralEye
+live coral % tracker - 
+
+#TODO
+- SAM Counter
+- Detectron counter
+- UniRef++
 
 <div align="center">
    <img src="https://github.com/kluless13/corallive/blob/test/Assets/download%20(1).png" width="49%"/>
