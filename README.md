@@ -7,6 +7,10 @@ live coral % tracker -
 - UniRef++
 
 <div align="center">
+    <img src="https://github.com/kluless13/corallive/blob/test/Assets/weakweights.gif"/>
+</div>
+
+<div align="center">
    <img src="https://github.com/kluless13/corallive/blob/test/Assets/download%20(1).png" width="49%"/>
    <img src="https://github.com/kluless13/corallive/blob/test/Assets/download%20(2).png" width="49%"/>
 </div>
